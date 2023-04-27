@@ -1,0 +1,30 @@
+/* 
+    Document   : style
+    Created on : Apr 26, 2023, 10:43:07 AM
+    Author     : harsh
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.bgimg{
+    background-image:url('body.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+.hearderset{
+    padding-top: 300px;
+    box-sizing: border-box;
+}
+
+.hearderset h2{
+    font-size: 42px;
+    
+    
+}
+.hearderset h1{
+    font-size:72px;
+    font-weight: bold;
+    
+}
